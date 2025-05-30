@@ -50,4 +50,4 @@ This project explores how heart disease risks vary by age, using a sample datase
 
 ## 📬 Contact
 
-Questions? Reach me at tchiemela@gmail.com
+Feel free to fork this project or reach out if you have any questions or suggestions!
